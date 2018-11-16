@@ -1,2 +1,2 @@
-# IA
-Proyecto de Inteligencia artificial desarrollado en Android Studio
+#PROYECTO DE INTELIGENCIA ARTIFICIAL
+El Presente Proyecto fue implementado 
