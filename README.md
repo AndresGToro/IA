@@ -11,6 +11,5 @@ Requerimientos
 
 1.Configuracion de Entorno de Desarrollo de Android 
 =================================================
-
-El presente proyecto esta creado utilizando el IDE de Android Studio 3.X en adelante, descargar el IDE y configurarlo
+Para el desarrollo del presente proyecto fue utilizado el IDE de Android Studio 3.X, descargar el IDE y configurarlo
 ya que sobre este IDE sera todo el desarrollo
