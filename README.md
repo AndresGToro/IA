@@ -17,5 +17,4 @@ ya que sobre este IDE sera todo el desarrollo
 
 2.Configuracion de OpenCV para android
 =====================================
-Dentro de la configuracion de de open cv para android 
-se debe de descargar la libreria de OpenCV que esta en la pagina oficial, para los efectos de nuestro aplicacion se utilizo la 3.43 de open cv debe
+Se debe de descargar open CV de la pagina oficial ya que es ahi donde se encuentra la documentacion de implementacion
