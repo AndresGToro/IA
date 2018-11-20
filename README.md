@@ -1,5 +1,4 @@
-Introduccion
-=============
+# Introduccion
 
 El presente proyecto fue implementado utilizando el IDE de android Studio, el cual el trabajo principal es el de detectar los vehiculos (automoviles) dentro de un ambiente, carreteras.
 el estudio de la deteccion de automoviles se realizo con 3 diferentes xml previamente entrenados esto con el fin de detectar el nivel de certeza que tiene cada uno de ellos
