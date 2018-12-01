@@ -3,8 +3,9 @@
 - Universidad Mariano Galvez de Guatemala 
 Plan Fin de Semana
 
+<p align="center">
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/uZDgm-PeL2U)
-
+</p>
 
 
 # Introduccion
