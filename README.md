@@ -30,4 +30,6 @@ Android Studio fue el ide utilizado para el desarrollo del reconocimiento de veh
 =====================================
 uno de los primeros pasos es descargar Open CV para android el cual se puede acceder desde la pagina oficial de Open CV para los efectos de este proyecto se descargo la libreria 3.4.3 de Open CV se puede descargar la que ustedes gusten ya que la configuracion es exactamente igual en las pruebas configure la version 2.4 y en este proyecto configure la libreria 3.4.3 
 
+<p aling="center">
 <img src="https://github.com/acalel/imagenes/blob/master/images.jpg" />
+ </p>
