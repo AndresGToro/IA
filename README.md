@@ -52,3 +52,9 @@ uno de los primeros pasos es descargar Open CV para android el cual se puede acc
 <img src="https://github.com/acalel/imagenes/blob/master/SDK.jpg" />
  </p>
  
+ luego de esto se seleccion el activity que se estara utilizando en la imagen pueden apreciar que estoy seleccionando un activity en blanco
+ 
+  <p align="center">
+<img src="https://github.com/acalel/imagenes/blob/master/activity.jpg" />
+ </p>
+ 
