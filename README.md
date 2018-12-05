@@ -44,9 +44,15 @@ uno de los primeros pasos es descargar Open CV para android el cual se puede acc
 <img src="https://github.com/acalel/imagenes/blob/master/inicio.jpg" />
  </p>
  
- en la siguiente pantalla se reemplaza My Application por el combre que ustedes deseen y todos lo demas valores los dejan tal y como se ve en la pantalla.
+ en la siguiente pantalla se reemplaza My Application por el combre que ustedes deseen y todos lo demas valores los dejan tal y como los a definidos android studio y luego le damos siguiente.
  
  <p align="center">
 <img src="https://github.com/acalel/imagenes/blob/master/creaccion.jpg" />
+ </p>
+ 
+ en la siguiente imagen podemos a preciar que definimos el SDK minimo en el cual se podra compilar nuestra aplicacion yo escogi este para los efectos del proyecto ustedes pueden escoger el que deseen
+ 
+  <p align="center">
+<img src="https://github.com/acalel/imagenes/blob/master/SDK.jpg" />
  </p>
  
