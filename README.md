@@ -23,6 +23,15 @@ Requerimientos
 - Open CV Manager 
 El ultimo de los requerimientos debe de esta instalado previamente en el dispositivo que se utilizara para las pruebas respectivas ya que esto ayuda al dispositivo para que instale los archivos nesesarios.
 
+# vista del proyecto en Python
+ademas de este proyecto en android en mi rep pueden encontrar la carpeta que contiene el archivo en python le adjunto una pantalla del funcionamiento del sistema 
+<p align="center">
+<img src="https://github.com/acalel/imagenes/blob/master/producto%20final.png" />
+ </p>
+ 
+
+
+
 1.Configuracion de Entorno de Desarrollo de Android 
 =================================================
 Android Studio fue el ide utilizado para el desarrollo del reconocimiento de vehiculos en la version movil, para el desarrollo del sistema debe de contar con este ide y que esten instalados los archivos nesesarios, dentro de este tutorial solo veremos la configuracion del entorno del desarrollo de este proyecto.
@@ -34,3 +43,5 @@ uno de los primeros pasos es descargar Open CV para android el cual se puede acc
 <p align="center">
 <img src="https://github.com/acalel/imagenes/blob/master/inicio.jpg" />
  </p>
+ 
+
