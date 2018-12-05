@@ -6,6 +6,11 @@ Plan Fin de Semana
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/uZDgm-PeL2U)
 
+# vista del proyecto en Python
+ademas de este proyecto en android en mi rep pueden encontrar la carpeta que contiene el archivo en python le adjunto una pantalla del funcionamiento del sistema 
+<p align="center">
+<img src="https://github.com/acalel/imagenes/blob/master/producto%20final.png" />
+ </p>
 
 
 # Introduccion
@@ -22,15 +27,6 @@ Requerimientos
 - Open CV para Android
 - Open CV Manager 
 El ultimo de los requerimientos debe de esta instalado previamente en el dispositivo que se utilizara para las pruebas respectivas ya que esto ayuda al dispositivo para que instale los archivos nesesarios.
-
-# vista del proyecto en Python
-ademas de este proyecto en android en mi rep pueden encontrar la carpeta que contiene el archivo en python le adjunto una pantalla del funcionamiento del sistema 
-<p align="center">
-<img src="https://github.com/acalel/imagenes/blob/master/producto%20final.png" />
- </p>
- 
-
-
 
 1.Configuracion de Entorno de Desarrollo de Android 
 =================================================
